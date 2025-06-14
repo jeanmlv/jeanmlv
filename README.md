@@ -1,18 +1,3 @@
-## 👋 Olá, sou o Jean  
-
-🎯 Estatístico apaixonado por transformar dados em decisões.  
-💻 Especialista em R com foco em automações, validação de processos industriais, pesquisa clínica e inteligência de mercado.  
-📊 Crio dashboards interativos, scripts inteligentes e soluções sob medida — do laboratório ao mercado financeiro.
-
-🔬 Explorando o poder da estatística na indústria farmacêutica  
-📈 Desenvolvendo modelos preditivos para o mercado financeiro  
-📦 Automatizando análises e relatórios com R, Shiny e GitHub  
-
-📚 Em constante evolução: IA, ciência de dados e aplicações práticas de estatística.  
-📫 [LinkedIn](https://www.linkedin.com/in/jean-mendes-0a455680/)
-
----
-
 ## 👋 Hi, I’m Jean  
 
 🎯 Statistician passionate about turning data into decisions.  
