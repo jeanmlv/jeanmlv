@@ -9,10 +9,9 @@
 📦 Automating analyses and reports with R, Shiny, and GitHub  
 
 📚 Always evolving: AI, data science, and practical statistical applications.  
-📫 Contact  
-For questions, suggestions or partnerships, please contact:  
+📫 Contact:  
 ✉️ **Professional email:** [jeanmlv.dev@gmail.com](mailto:jeanmlv.dev@gmail.com)  
-🔗 **LinkedIn:** ([https://www.linkedin.com/in/jean-mendes-0a455680/?locale=en_US)](https://www.linkedin.com/in/jean-mendes-0a455680/?locale=en_US))  
+🔗 **LinkedIn:** https://www.linkedin.com/in/jean-mendes-0a455680/?locale=en_US  
 🐙 **GitHub:** [github.com/jeanmlv](https://github.com/jeanmlv)  
 
 # 💻 Tech Stack:
