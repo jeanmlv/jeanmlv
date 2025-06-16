@@ -1,21 +1,29 @@
 ## 👋 Hi, I’m Jean  
 
-🎯 Biostatistician and Pharmacist passionate about transforming data into decisions
+🎓 Pharmacist & Biochemist | Specialist in Applied Statistics to Clinical Research and Industrial Processes  
 
-💻 R specialist focused on automation, industrial process validation, clinical research, and applied biostatistics
+💻 R Specialist focused on automation, data analysis, and decision-making across pharmaceutical, healthcare, and financial market.
 
-📊 I build interactive dashboards, smart scripts, and tailored solutions
+📊 I design interactive dashboards, automated reports, and custom analytical workflows using R, Shiny, and GitHub.
 
-🔬 Exploring the power of statistics in the pharmaceutical industry
+🔬 Passionate about applying statistics to solve real-world problems in healthcare, pharma, industry, and finance — from stability studies to predictive analytics.
 
-🧪 Areas of Expertise: statistical modeling in clinical trials, survival analysis (time-to-event methods), repeated measures and longitudinal data models, automation of statistical analyses and reporting using R, Shiny, and GitHub
+💹 Expanding into predictive modeling and data-driven insights for financial markets.
 
-📚 Always evolving: AI, data science, practical statistical applications in healthcare
+🧪 Areas of Expertise:
+• Statistical modeling in clinical trials  
+• Survival analysis (time-to-event methods)  
+• Repeated measures & longitudinal models  
+• Data cleaning, transformation, and reporting automation  
+• Process validation and stability studies  
+• Exploratory financial analytics using macroeconomic indicators  
 
-📫 Contact:  
-✉️ **Professional email:** [jeanmlv.dev@gmail.com](mailto:jeanmlv.dev@gmail.com)  
-🔗 **LinkedIn:** https://www.linkedin.com/in/jean-mendes-0a455680/?locale=en_US  
-🐙 **GitHub:** [github.com/jeanmlv](https://github.com/jeanmlv)  
+📚 Lifelong learner in AI, data science, and real-world statistical applications
+
+📫 Contact:
+✉️ Email: jeanmlv.dev@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/jean-mendes-0a455680](https://www.linkedin.com/in/jean-mendes-0a455680/?locale=en_US)  
+🐙 GitHub: [github.com/jeanmlv](https://github.com/jeanmlv)
 
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
