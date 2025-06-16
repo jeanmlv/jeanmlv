@@ -1,23 +1,11 @@
 ## 👋 Hi, I’m Jean  
 
-🎯 **Biostatistician and Pharmacist passionate about transforming data into decisions**
-💻 **R specialist focused on automation, industrial process validation, clinical research, and applied biostatistics**
-📊 **I build interactive dashboards, smart scripts, and tailored solutions**
-🔬 **Exploring the power of statistics in the pharmaceutical industry** 
+🎯 Biostatistician and Pharmacist passionate about transforming data into decisions
+💻 R specialist focused on automation, industrial process validation, clinical research, and applied biostatistics
+📊 I build interactive dashboards, smart scripts, and tailored solutions
+🔬 Exploring the power of statistics in the pharmaceutical industry
 
 🧪 Areas of Expertise: statistical modeling in clinical trials, survival analysis (time-to-event methods), repeated measures and longitudinal data models, automation of statistical analyses and reporting using R, Shiny, and GitHub
-
-🔗 Featured Projects:
-
-🧪 Drug Stability — Linear Regression: Statistical stability analysis of pharmaceutical products using linear regression
-
-📉 Clinical Survival Analysis: Time-to-event analysis (Kaplan-Meier, Cox model) with simulated clinical data
-
-📊 Interactive Shiny Dashboard — Clinical KPIs: A clinical dashboard tracking key performance indicators in real-time
-
-📦 Automated CDISC Dataset Builder: Automated generation of CDISC-compliant datasets (ADaM/SDTM)
-
-🧪 Comparative Analysis of Groups — Treatment Effectiveness and Safety: Statistical comparison of treatment groups in a simulated clinical study, evaluating effectiveness and safety.
 
 📚 Always evolving: AI, data science, practical statistical applications in healthcare
 
