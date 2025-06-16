@@ -1,23 +1,16 @@
 ## 👋 Hi, I’m Jean  
 
 🎯 Biostatistician and Pharmacist passionate about transforming data into decisions 
-
 💻 R specialist focused on automation, industrial process validation, clinical research, and applied biostatistics
-
 📊 I build interactive dashboards, smart scripts, and tailored solutions
-
 🔬 Exploring the power of statistics in the pharmaceutical industry  
 
 🧪 Areas of Expertise:
 
 📈 Statistical modeling in clinical trials
-
 ⏳  Survival analysis (time-to-event methods)
-
 🧠 Development and validation of clinical instruments (psychometrics)
-
 🔁 Repeated measures and longitudinal data models
-
 📦 Automation of statistical analyses and reporting using R, Shiny, and GitHub
 
 📚 Always evolving: AI, data science, practical statistical applications in healthcare
