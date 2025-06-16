@@ -10,7 +10,8 @@
 
 💹 Expanding into predictive modeling and data-driven insights for financial markets.
 
-🧪 Areas of Expertise:
+🧪 Areas of Expertise: 
+
 • Statistical modeling in clinical trials  
 • Survival analysis (time-to-event methods)  
 • Repeated measures & longitudinal models  
