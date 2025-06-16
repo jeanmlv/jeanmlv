@@ -1,14 +1,18 @@
 ## 👋 Hi, I’m Jean  
 
-🎯 Statistician passionate about turning data into decisions.  
-💻 R specialist focused on automation, industrial process validation, clinical research and market intelligence.  
-📊 I build interactive dashboards, smart scripts, and tailored solutions — from the lab to the financial market.
-
+🎯 Biostatistician and Pharmacist passionate about transforming data into decisions 
+💻 R specialist focused on automation, industrial process validation, clinical research, and applied biostatistics  
+📊 I build interactive dashboards, smart scripts, and tailored solutions
 🔬 Exploring the power of statistics in the pharmaceutical industry  
-📈 Developing predictive models for the financial market  
-📦 Automating analyses and reports with R, Shiny, and GitHub  
 
-📚 Always evolving: AI, data science, and practical statistical applications.  
+🧪 Areas of Expertise:
+📈 Statistical modeling in clinical trials
+⏳  Survival analysis (time-to-event methods)
+🧠 Development and validation of clinical instruments (psychometrics)
+🔁 Repeated measures and longitudinal data models
+📦 Automation of statistical analyses and reporting using R, Shiny, and GitHub
+
+📚 Always evolving: AI, data science, practical statistical applications in healthcare
 📫 Contact:  
 ✉️ **Professional email:** [jeanmlv.dev@gmail.com](mailto:jeanmlv.dev@gmail.com)  
 🔗 **LinkedIn:** https://www.linkedin.com/in/jean-mendes-0a455680/?locale=en_US  
