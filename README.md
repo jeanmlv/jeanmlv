@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Jean  
 
-🎓 B.Sc. Pharmacy/Biochemistry | MSc Biostatistics | Specialist in Applied Statistics to Clinical Research and Industrial Processes  
+🎓 B.Sc. Pharmacy/Biochemistry | MSc Biostatistics | Specialist in Applied Statistics to Clinical Research and Industrial Processes.  
 
-💻 R Specialist focused on automation, data analysis, and decision-making across pharmaceutical and healthcare
+💻 R Specialist focused on automation, data analysis, and decision-making across pharmaceutical and healthcare.
 
 📊 I design interactive dashboards, automated reports, and custom analytical workflows using R, Shiny, and GitHub.
 
@@ -16,7 +16,7 @@
 • Data cleaning, transformation, and reporting automation  
 • Process validation and stability studies  
 
-📚 Lifelong learner in AI, data science, and real-world statistical applications
+📚 Lifelong learner in AI, data science, and real-world statistical applications.
 
 📫 Contact:
 
