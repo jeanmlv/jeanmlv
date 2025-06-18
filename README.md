@@ -1,14 +1,12 @@
 ## 👋 Hi, I’m Jean  
 
-🎓 Pharmacist & Biochemist | Specialist in Applied Statistics to Clinical Research and Industrial Processes  
+🎓 B.Sc. Pharmacy/Biochemistry | MSc Biostatistics | Specialist in Applied Statistics to Clinical Research and Industrial Processes  
 
-💻 R Specialist focused on automation, data analysis, and decision-making across pharmaceutical, healthcare, and financial market.
+💻 R Specialist focused on automation, data analysis, and decision-making across pharmaceutical and healthcare
 
 📊 I design interactive dashboards, automated reports, and custom analytical workflows using R, Shiny, and GitHub.
 
-🔬 Passionate about applying statistics to solve real-world problems in healthcare, pharma, industry, and finance — from stability studies to predictive analytics.
-
-💹 Expanding into predictive modeling and data-driven insights for financial markets.
+🔬 Passionate about applying statistics to solve real-world problems in healthcare, pharma and industry — from stability studies to predictive analytics.
 
 🧪 Areas of Expertise: 
 
@@ -17,7 +15,6 @@
 • Repeated measures & longitudinal models  
 • Data cleaning, transformation, and reporting automation  
 • Process validation and stability studies  
-• Exploratory financial analytics using macroeconomic indicators  
 
 📚 Lifelong learner in AI, data science, and real-world statistical applications
 
