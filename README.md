@@ -19,6 +19,7 @@
 📚 Lifelong learner in AI, data science, and real-world statistical applications
 
 📫 Contact:
+
 ✉️ Email: jeanmlv.dev@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/jean-mendes-0a455680](https://www.linkedin.com/in/jean-mendes-0a455680/?locale=en_US)  
 🐙 GitHub: [github.com/jeanmlv](https://github.com/jeanmlv)
