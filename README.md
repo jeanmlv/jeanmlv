@@ -12,6 +12,8 @@
 
 • Biostatistics & Clinical Trials (GLM, survival, longitudinal analysis)
 
+• Bioinformatics & Drug Discovery (drug development with genomic and molecular data)
+
 • Machine Learning (tree-based models, XGBoost, ensemble methods)
 
 • Deep Learning (Keras, TensorFlow for tabular and time series data)
