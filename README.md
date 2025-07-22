@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Jean  
 
-🎓 Pharmacist-Biochemist | MSc in Biostatistics | Data Scientist with a strong foundation in Applied Statistics for Clinical Research, Pharma, and Industrial Processes.
+🎓 Pharmacist-Biochemist | MSc in Science and Technology | Data Scientist with a strong foundation in Applied Statistics for Clinical Research, Pharma, and Industrial Processes.
 
 🧠 Expert in R, Python and SQL, I develop end-to-end data science solutions — from data wrangling and statistical modeling to interactive dashboards and production-ready ML workflows.
 
@@ -11,8 +11,6 @@
 🧪 Areas of Expertise: 
 
 • Biostatistics & Clinical Trials (GLM, survival, longitudinal analysis)
-
-• Bioinformatics & Drug Discovery (drug development with genomic and molecular data)
 
 • Machine Learning (tree-based models, XGBoost, ensemble methods)
 
