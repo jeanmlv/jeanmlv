@@ -1,22 +1,21 @@
 ## 👋 Hi, I’m Jean  
 
-🎓 B.Sc. Pharmacy/Biochemistry | MSc Biostatistics | Specialist in Applied Statistics to Clinical Research and Industrial Processes.  
+🎓 Pharmacist-Biochemist | MSc in Biostatistics | Data Scientist with a strong foundation in Applied Statistics for Clinical Research, Pharma, and Industrial Processes.
 
-💻 R Specialist focused on automation, data analysis, and decision-making across pharmaceutical and healthcare.
+🧠 Expert in R, Python and SQL, I develop end-to-end data science solutions — from data wrangling and statistical modeling to interactive dashboards and production-ready ML workflows.
 
-📊 I design interactive dashboards, automated reports, and custom analytical workflows using R, Shiny, and GitHub.
+📊 I combine academic rigor with real-world experience to deliver value through predictive modeling, automated analytics pipelines, and evidence-based decision support systems.
 
-🔬 Passionate about applying statistics to solve real-world problems in healthcare, pharma and industry — from stability studies to predictive analytics.
+💡 Currently expanding my expertise in machine learning, deep learning, and real-world data applications, with hands-on experience on Kaggle projects and open-source contributions.
 
 🧪 Areas of Expertise: 
 
-• Statistical modeling in clinical trials  
-• Survival analysis (time-to-event methods)  
-• Repeated measures & longitudinal models  
-• Data cleaning, transformation, and reporting automation  
-• Process validation and stability studies  
-
-📚 Lifelong learner in AI, data science, and real-world statistical applications.
+• Biostatistics & Clinical Trials (GLM, survival, longitudinal analysis) 
+• Machine Learning (tree-based models, XGBoost, ensemble methods)
+• Deep Learning (Keras, TensorFlow for tabular and time series data)
+• Database Querying (SQL, SQLite, MySQL, MS SQL Server)
+• Data Engineering & Automation (ETL, reporting with RMarkdown, Shiny, Python scripts)
+• Statistical Process Control & Validation in Regulated Environments
 
 📫 Contact:
 
