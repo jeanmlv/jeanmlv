@@ -10,11 +10,16 @@
 
 🧪 Areas of Expertise: 
 
-• Biostatistics & Clinical Trials (GLM, survival, longitudinal analysis) 
+• Biostatistics & Clinical Trials (GLM, survival, longitudinal analysis)
+
 • Machine Learning (tree-based models, XGBoost, ensemble methods)
+
 • Deep Learning (Keras, TensorFlow for tabular and time series data)
+
 • Database Querying (SQL, SQLite, MySQL, MS SQL Server)
+
 • Data Engineering & Automation (ETL, reporting with RMarkdown, Shiny, Python scripts)
+
 • Statistical Process Control & Validation in Regulated Environments
 
 📫 Contact:
