@@ -1,26 +1,30 @@
 ## 👋 Hi, I’m Jean  
 
-🎓 Pharmacist-Biochemist | MSc in Science and Technology.
+🎓 Pharmacist-Biochemist | MSc in Science and Technology with a focus on Biostatistics.
 
-🧠 Expert in R, Python and SQL, I develop end-to-end data science solutions — from data wrangling and statistical modeling to interactive dashboards and production-ready ML workflows.
+🧠 Specialist in R programming for clinical research, pharmaceutical development, and industrial analytics.
 
-📊 My work bridges academic rigor and real-world impact, applying advanced analytics, machine learning, and automation to support data-driven decisions in regulated and performance-critical environments.
+🧪 I apply rigorous biostatistical methods to extract actionable insights from complex datasets, combining statistical modeling, reproducible research, and automation to ensure regulatory compliance and scientific integrity.
 
-💡 Currently expanding my expertise in machine learning, deep learning, and real-world data applications, with hands-on experience on Kaggle projects and open-source contributions.
+💻 My projects span the full data lifecycle — from raw data to regulatory-ready reports — using R, RMarkdown, Shiny, and advanced packages for modeling, simulation, and visualization.
+
+🔬 Currently exploring real-world data (RWD), Bayesian modeling, and advanced clinical trial analytics to support evidence-based decisions in healthcare and pharma.
 
 🚀 Areas of Expertise: 
 
-• Applied Data Science & AI for Healthcare, Pharma, Finance, and Industry
+• Biostatistics for Clinical Trials (GLM, survival analysis, mixed models, longitudinal data)
 
-• Statistical Modeling (GLM, survival, longitudinal, time series)
+• Reproducible Reporting using RMarkdown, knitr, and officer
 
-• Machine Learning & Predictive Analytics (tree-based models, XGBoost, ensembles)
+• Interactive Dashboards and tools with Shiny and flexdashboard
 
-• Deep Learning for structured data (Keras, TensorFlow)
+• Pharmacometrics & PK/PD Data Analysis
 
-• Data Engineering & Automation (RMarkdown, Python scripts, ETL pipelines)
+• ETL & Automation using tidyverse, data.table, lubridate, and purrr
 
-• SQL & Databases (MySQL, PostgreSQL, MS SQL Server)
+• Simulation & Risk Modeling (Monte Carlo, probabilistic sensitivity analysis)
+
+• Databases and Querying: SQL (PostgreSQL, MySQL), integration with R
 
 📫 Contact:
 
