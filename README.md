@@ -1,26 +1,26 @@
 ## 👋 Hi, I’m Jean  
 
-🎓 Pharmacist-Biochemist | MSc in Science and Technology | Data Scientist with a strong foundation in Applied Statistics for Clinical Research, Pharma, and Industrial Processes.
+🎓 Pharmacist-Biochemist | MSc in Science and Technology.
 
 🧠 Expert in R, Python and SQL, I develop end-to-end data science solutions — from data wrangling and statistical modeling to interactive dashboards and production-ready ML workflows.
 
-📊 I combine academic rigor with real-world experience to deliver value through predictive modeling, automated analytics pipelines, and evidence-based decision support systems.
+📊 My work bridges academic rigor and real-world impact, applying advanced analytics, machine learning, and automation to support data-driven decisions in regulated and performance-critical environments.
 
 💡 Currently expanding my expertise in machine learning, deep learning, and real-world data applications, with hands-on experience on Kaggle projects and open-source contributions.
 
-🧪 Areas of Expertise: 
+🚀 Areas of Expertise: 
 
-• Biostatistics & Clinical Trials (GLM, survival, longitudinal analysis)
+• Applied Data Science & AI for Healthcare, Pharma, Finance, and Industry
 
-• Machine Learning (tree-based models, XGBoost, ensemble methods)
+• Statistical Modeling (GLM, survival, longitudinal, time series)
 
-• Deep Learning (Keras, TensorFlow for tabular and time series data)
+• Machine Learning & Predictive Analytics (tree-based models, XGBoost, ensembles)
 
-• Database Querying (SQL, SQLite, MySQL, MS SQL Server)
+• Deep Learning for structured data (Keras, TensorFlow)
 
-• Data Engineering & Automation (ETL, reporting with RMarkdown, Shiny, Python scripts)
+• Data Engineering & Automation (RMarkdown, Python scripts, ETL pipelines)
 
-• Statistical Process Control & Validation in Regulated Environments
+• SQL & Databases (MySQL, PostgreSQL, MS SQL Server)
 
 📫 Contact:
 
