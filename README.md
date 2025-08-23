@@ -1,30 +1,35 @@
 ## 👋 Hi, I’m Jean  
 
-🎓 Pharmacist-Biochemist | MSc in Science and Technology with a focus on Biostatistics.
+🎓 Bsc in Pharmacy-Biochemist | MSc in Science and Technology.
 
-🧠 Specialist in R programming for clinical research, pharmaceutical development, and industrial analytics.
+🧠 Specialist in R and Python programming for clinical research, pharmaceutical analytics, and quantitative finance. I bridge rigorous statistical modeling with real-world applications — from healthcare to high-frequency financial data.
 
-🧪 I apply rigorous biostatistical methods to extract actionable insights from complex datasets, combining statistical modeling, reproducible research, and automation to ensure regulatory compliance and scientific integrity.
+🔧 Quantitative Developer & Data Scientist passionate about financial markets, algorithmic trading, and AI-driven investment strategies.
 
-💻 My projects span the full data lifecycle — from raw data to regulatory-ready reports — using R, RMarkdown, Shiny, and advanced packages for modeling, simulation, and visualization.
+🧪 I apply advanced biostatistical and machine learning methods to extract actionable insights from complex datasets, ensuring reproducibility, automation, and regulatory compliance across domains.
 
-🔬 Currently exploring real-world data (RWD), Bayesian modeling, and advanced clinical trial analytics to support evidence-based decisions in healthcare and pharma.
+💻 My work spans the full data lifecycle — from raw data ingestion (ETL) to regulatory-ready reports and algorithmic trading systems, using R, Python, SQL, Shiny, and quantitative finance libraries.
 
 🚀 Areas of Expertise: 
 
-• Biostatistics for Clinical Trials (GLM, survival analysis, mixed models, longitudinal data)
+• Biostatistics & Clinical Research: GLM, survival analysis, mixed models, longitudinal data, PK/PD modeling
 
-• Reproducible Reporting using RMarkdown, knitr, and officer
+• Quantitative Finance & Algorithmic Trading:
 
-• Interactive Dashboards and tools with Shiny and flexdashboard
+     • Development of trading scripts, indicators, and Expert Advisors (EAs)
+     • Backtesting frameworks and risk-adjusted strategy optimization
+     • Technical & quantitative analysis using statistical arbitrage, time series forecasting, and volatility modeling
 
-• Pharmacometrics & PK/PD Data Analysis
+• Artificial Intelligence in Finance:
 
-• ETL & Automation using tidyverse, data.table, lubridate, and purrr
+    • Machine Learning (XGBoost, Random Forests, SVM) and Deep Learning (LSTMs, Transformers) for market prediction and    portfolio optimization
+    • Integration of alternative data (sentiment, macro indicators) into trading models
 
-• Simulation & Risk Modeling (Monte Carlo, probabilistic sensitivity analysis)
+• Reproducible Reporting & Automation: RMarkdown, knitr, officer, purrr, data.table
 
-• Databases and Querying: SQL (PostgreSQL, MySQL), integration with R
+• Interactive Dashboards: Shiny, flexdashboard, Plotly
+
+• Databases & Data Engineering: PostgreSQL, MySQL, SQLite, SQL Server, DBI, dplyr
 
 📫 Contact:
 
