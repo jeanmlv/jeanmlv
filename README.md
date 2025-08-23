@@ -22,7 +22,7 @@
 
 • Artificial Intelligence in Finance:
 
-    • Machine Learning (XGBoost, Random Forests, SVM) and Deep Learning (LSTMs, Transformers) for market prediction and    portfolio optimization
+    • Machine Learning (XGBoost, Random Forests, SVM) and Deep Learning (LSTMs, Transformers) for market prediction and portfolio optimization
     • Integration of alternative data (sentiment, macro indicators) into trading models
 
 • Reproducible Reporting & Automation: RMarkdown, knitr, officer, purrr, data.table
