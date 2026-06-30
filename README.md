@@ -12,7 +12,7 @@ Statistical Programmer • Clinical Data Scientist • Data Engineer
 
 ---
 
-I am a Statistical Programmer and Clinical Data Scientist with experience at the intersection of pharmaceutical research, clinical trials, biostatistics and software engineering.
+Statistical Programmer and Clinical Data Scientist with experience at the intersection of pharmaceutical research, clinical trials, biostatistics and software engineering.
 
 My work focuses on developing reproducible analytical pipelines, clinical data solutions and statistical applications that support decision-making throughout the product lifecycle—from development and clinical studies to post-market surveillance.
 
@@ -95,98 +95,9 @@ My primary interests include:
 
 ## Pharmaceutical Quality
 
-- Product Quality Review (PQR/RQP)
+- Product Quality Review (PQR)
 - Stability Studies
 - Trend Analysis
 - Process Capability
-- GMP Data Analysis
 - Post-Market Surveillance
 - Risk Assessment
-
----
-
-# Featured Projects
-
-### Clinical Dashboard
-
-Interactive platform for exploration and visualization of clinical trial datasets.
-
-**Highlights**
-
-- Subject Explorer
-- Visit Explorer
-- PARAMCD Dictionary
-- Interactive Charts
-- Clinical Filters
-- Data Export
-
----
-
-### Clinical Data Pipeline
-
-Python and R framework for transforming raw clinical datasets into standardized analytical datasets.
-
-Includes:
-
-- SDTM Processing
-- ADaM Processing
-- Metadata Validation
-- Clinical Dictionaries
-- Data Quality Reports
-
----
-
-### Statistical Toolkit
-
-Collection of statistical methods used in clinical research and pharmaceutical quality.
-
-Includes:
-
-- Capability Analysis
-- SPC Charts
-- Regression Models
-- Normality Tests
-- Trend Analysis
-- Stability Evaluation
-
----
-
-### Pharma Analytics
-
-Analytics library focused on pharmaceutical manufacturing and quality systems.
-
-Applications include:
-
-- Stability Monitoring
-- Product Quality Review
-- Complaint Trending
-- Process Monitoring
-- KPI Dashboards
-
----
-
-# Research Interests
-
-- Clinical Data Science
-- Statistical Computing
-- Artificial Intelligence for Clinical Research
-- Real World Evidence
-- Pharmaceutical Data Engineering
-- Digital Health
-- Reproducible Research
-
----
-
-# Professional Philosophy
-
-> Transforming clinical and pharmaceutical data into reliable scientific evidence through statistics, programming and data engineering.
-
----
-
-# Connect
-
-LinkedIn
-
-ORCID
-
-GitHub
