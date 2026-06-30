@@ -6,13 +6,11 @@ Statistical Programmer • Clinical Data Scientist • Data Engineer
 
 <p align="center">
 
-Clinical Trials • Biostatistics • Data Engineering • R • Python • SAS • CDISC
+     Clinical Trials • Biostatistics • Data Engineering • R • Python • SAS • CDISC
 
 </p>
 
 ---
-
-## About Me
 
 I am a Statistical Programmer and Clinical Data Scientist with experience at the intersection of pharmaceutical research, clinical trials, biostatistics and software engineering.
 
