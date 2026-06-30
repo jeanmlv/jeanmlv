@@ -1,4 +1,4 @@
-<h1 align="center">Jean Mendes 👋</h1>
+<h1 align="center">Jean Mendes 🧬💻</h1>
 
 <h3 align="center">
 Statistical Programmer • Clinical Data Scientist • Data Engineer
@@ -30,8 +30,7 @@ I develop reproducible analytical pipelines, clinical data solutions and statist
 | **Statistical Programming** | R, Python, SAS, reproducible workflows and analytical pipelines |
 | **Clinical Standards** | CDISC SDTM, ADaM, Define-XML, metadata and data validation |
 | **Biostatistics** | Regression, hypothesis testing, survival analysis and longitudinal data |
-| **Data Engineering** | Data integration, automation, transformation and quality control |
-| **Pharmaceutical Analytics** | Stability studies, trend analysis, process capability and quality review |
+| **Data Engineering** | Data integration, automation and transformation |
 
 ---
 
@@ -50,11 +49,4 @@ I develop reproducible analytical pipelines, clinical data solutions and statist
 
 ## Professional Focus
 
-My work combines statistical thinking, clinical domain knowledge and software development to build reliable, scalable and reproducible data solutions for clinical research and pharmaceutical quality.
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/jean-mendes-0a455680/)  
-[ORCID](https://orcid.org/0009-0006-8033-8598)
+My work combines statistical programming, clinical trial data analysis, and software development to build reliable, scalable, and reproducible data solutions that support clinical research and evidence-based decision making.
