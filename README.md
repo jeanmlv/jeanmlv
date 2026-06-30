@@ -1,102 +1,194 @@
-## Hi, I'm Jean Mendes 👋
+<h1 align="center">Hi, I'm Jean Mendes 👋</h1>
 
-**Statistical Programmer | Clinical Data Scientist | Data Engineer**
+<h3 align="center">
+Statistical Programmer • Clinical Data Scientist • Data Engineer
+</h3>
 
-I work at the intersection of clinical research, biostatistics and software development.
+<p align="center">
 
-My current interests include:
+Clinical Trials • Biostatistics • Data Engineering • R • Python • SAS • CDISC
 
-- Clinical Trial Data Analysis
-- CDISC SDTM / ADaM
-- Statistical Programming
-- Data Engineering
-- Interactive Dashboards
-- Machine Learning for Clinical Research
-- R & Python
+</p>
 
 ---
 
-## Tech Stack
+## About Me
 
-### Languages
+I am a Statistical Programmer and Clinical Data Scientist with experience at the intersection of pharmaceutical research, clinical trials, biostatistics and software engineering.
+
+My work focuses on developing reproducible analytical pipelines, clinical data solutions and statistical applications that support decision-making throughout the product lifecycle—from development and clinical studies to post-market surveillance.
+
+My primary interests include:
+
+- Clinical Trial Analytics
+- Statistical Programming
+- Clinical Data Engineering
+- Biostatistics
+- Machine Learning for Healthcare
+- CDISC Standards (SDTM / ADaM)
+- Interactive Data Visualization
+- Pharmaceutical Quality Analytics
+- Regulatory Science
+
+---
+
+# Technical Expertise
+
+## Programming
 
 - Python
 - R
-- SAS (learning)
+- SAS
 - SQL
+- Git
 
-### Data
+---
+
+## Data Science
 
 - Pandas
 - NumPy
-- PyArrow
-- DuckDB
-- Polars
-
-### Statistics
-
 - SciPy
 - Statsmodels
 - Scikit-learn
-- Minitab
+- Polars
+- DuckDB
+- PyArrow
 
-### Clinical Data
+---
+
+## Statistics
+
+- Linear & Logistic Regression
+- Survival Analysis
+- Mixed Models
+- Capability Analysis
+- Statistical Process Control (SPC)
+- Process Validation
+- Design of Experiments
+- Hypothesis Testing
+- Nonparametric Statistics
+
+---
+
+## Clinical Programming
 
 - CDISC SDTM
 - CDISC ADaM
-- Clinical Trial datasets
-- Regulatory Reporting
+- Clinical Trial Data Review
+- Metadata
+- Define.xml
+- TFL Development
+- Data Validation
+- Clinical Data Integration
 
-### Visualization
+---
 
+## Data Visualization
+
+- ggplot2
 - Plotly
 - Streamlit
+- Shiny
 - PyGWalker
 - Matplotlib
 
 ---
 
-## Featured Projects
+## Pharmaceutical Quality
 
-🚧 Clinical Dashboard (Streamlit)
+- Product Quality Review (PQR/RQP)
+- Stability Studies
+- Trend Analysis
+- Process Capability
+- GMP Data Analysis
+- Post-Market Surveillance
+- Risk Assessment
 
-Interactive dashboard for Clinical Trial ADaM datasets.
+---
 
-Features:
+# Featured Projects
 
-- Subject filtering
+### Clinical Dashboard
+
+Interactive platform for exploration and visualization of clinical trial datasets.
+
+**Highlights**
+
+- Subject Explorer
 - Visit Explorer
 - PARAMCD Dictionary
-- Clinical Charts
-- Interactive Graphics
+- Interactive Charts
+- Clinical Filters
+- Data Export
 
 ---
 
-🚧 Clinical Data Pipeline
+### Clinical Data Pipeline
 
-Python pipeline for transforming raw clinical datasets into standardized analysis datasets.
+Python and R framework for transforming raw clinical datasets into standardized analytical datasets.
 
----
+Includes:
 
-🚧 Statistical Toolkit
-
-Collection of statistical methods used in pharmaceutical quality and clinical research.
-
----
-
-## Current Goals
-
-- Master SAS
-- Become an expert Statistical Programmer
-- Contribute to Open Source Clinical projects
-- Build reusable Clinical Python libraries
+- SDTM Processing
+- ADaM Processing
+- Metadata Validation
+- Clinical Dictionaries
+- Data Quality Reports
 
 ---
 
-## Connect with me
+### Statistical Toolkit
 
-LinkedIn:
-www.linkedin.com/in/jean-mendes-0a4556807
+Collection of statistical methods used in clinical research and pharmaceutical quality.
 
-ORCID:
-0009-0006-8033-8598
+Includes:
+
+- Capability Analysis
+- SPC Charts
+- Regression Models
+- Normality Tests
+- Trend Analysis
+- Stability Evaluation
+
+---
+
+### Pharma Analytics
+
+Analytics library focused on pharmaceutical manufacturing and quality systems.
+
+Applications include:
+
+- Stability Monitoring
+- Product Quality Review
+- Complaint Trending
+- Process Monitoring
+- KPI Dashboards
+
+---
+
+# Research Interests
+
+- Clinical Data Science
+- Statistical Computing
+- Artificial Intelligence for Clinical Research
+- Real World Evidence
+- Pharmaceutical Data Engineering
+- Digital Health
+- Reproducible Research
+
+---
+
+# Professional Philosophy
+
+> Transforming clinical and pharmaceutical data into reliable scientific evidence through statistics, programming and data engineering.
+
+---
+
+# Connect
+
+LinkedIn
+
+ORCID
+
+GitHub
