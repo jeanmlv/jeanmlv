@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jean Mendes 👋</h1>
+<h1 align="center">Jean Mendes 👋</h1>
 
 <h3 align="center">
 Statistical Programmer • Clinical Data Scientist • Data Engineer
