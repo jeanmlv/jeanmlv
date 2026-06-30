@@ -5,99 +5,56 @@ Statistical Programmer • Clinical Data Scientist • Data Engineer
 </h3>
 
 <p align="center">
-
-     Clinical Trials • Biostatistics • Data Engineering • R • Python • SAS • CDISC
-
+  <code>Clinical Trials</code> •
+  <code>Biostatistics</code> •
+  <code>Data Engineering</code> •
+  <code>R</code> •
+  <code>Python</code> •
+  <code>SAS</code> •
+  <code>CDISC</code>
 </p>
 
 ---
 
 Statistical Programmer and Clinical Data Scientist with experience at the intersection of pharmaceutical research, clinical trials, biostatistics and software engineering.
 
-My work focuses on developing reproducible analytical pipelines, clinical data solutions and statistical applications that support decision-making throughout the product lifecycle—from development and clinical studies to post-market surveillance.
-
-My primary interests include:
-
-- Clinical Trial Analytics
-- Statistical Programming
-- Clinical Data Engineering
-- Biostatistics
-- Machine Learning for Healthcare
-- CDISC Standards (SDTM / ADaM)
-- Interactive Data Visualization
-- Pharmaceutical Quality Analytics
-- Regulatory Science
+I develop reproducible analytical pipelines, clinical data solutions and statistical applications that support decision-making across the product lifecycle — from development and clinical studies to post-market surveillance.
 
 ---
 
-# Technical Expertise
+## Core Expertise
 
-## Programming
-
-- Python
-- R
-- SAS
-- SQL
-- Git
-
----
-
-## Data Science
-
-- Pandas
-- NumPy
-- SciPy
-- Statsmodels
-- Scikit-learn
-- Polars
-- DuckDB
-- PyArrow
+| Area | Focus |
+|---|---|
+| **Clinical Data Science** | Clinical trial analytics, data review, reporting and visualization |
+| **Statistical Programming** | R, Python, SAS, reproducible workflows and analytical pipelines |
+| **Clinical Standards** | CDISC SDTM, ADaM, Define-XML, metadata and data validation |
+| **Biostatistics** | Regression, hypothesis testing, survival analysis and longitudinal data |
+| **Data Engineering** | Data integration, automation, transformation and quality control |
+| **Pharmaceutical Analytics** | Stability studies, trend analysis, process capability and quality review |
 
 ---
 
-## Statistics
+## Technical Proficiency
 
-- Linear & Logistic Regression
-- Survival Analysis
-- Mixed Models
-- Capability Analysis
-- Statistical Process Control (SPC)
-- Process Validation
-- Design of Experiments
-- Hypothesis Testing
-- Nonparametric Statistics
-
----
-
-## Clinical Programming
-
-- CDISC SDTM
-- CDISC ADaM
-- Clinical Trial Data Review
-- Metadata
-- Define.xml
-- TFL Development
-- Data Validation
-- Clinical Data Integration
+| Category | Tools & Methods |
+|---|---|
+| **Languages** | R • Python • SAS • SQL |
+| **R Ecosystem** | tidyverse • dplyr • tidyr • ggplot2 • data.table • shiny • survival • lme4 • quarto |
+| **Python Ecosystem** | pandas • NumPy • SciPy • statsmodels • scikit-learn • polars • DuckDB • PyArrow |
+| **Clinical Standards** | CDISC SDTM • CDISC ADaM • Define-XML • MedDRA • ICH-GCP |
+| **Visualization** | ggplot2 • Plotly • Shiny • Streamlit • Matplotlib • PyGWalker |
+| **Statistics** | SPC • Capability Analysis • Regression • ANOVA • Survival Analysis • Mixed Models |
 
 ---
 
-## Data Visualization
+## Professional Focus
 
-- ggplot2
-- Plotly
-- Streamlit
-- Shiny
-- PyGWalker
-- Matplotlib
+My work combines statistical thinking, clinical domain knowledge and software development to build reliable, scalable and reproducible data solutions for clinical research and pharmaceutical quality.
 
 ---
 
-## Pharmaceutical Quality
+## Connect
 
-- Product Quality Review (PQR)
-- Stability Studies
-- Trend Analysis
-- Process Capability
-- Post-Market Surveillance
-- Risk Assessment
+[LinkedIn](https://www.linkedin.com/in/jean-mendes-0a455680/)  
+[ORCID](https://orcid.org/0009-0006-8033-8598)
