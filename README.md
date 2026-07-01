@@ -5,9 +5,7 @@ Founder • Spatial Data Scientist • Statistical Programmer
 </h3>
 
 <p align="center">
-
-  Building spatial intelligence platforms that transform healthcare data into business decisions.
-
+<i>Building spatial intelligence platforms that transform healthcare data into business decisions.</i>
 </p>
 
 <p align="center">
