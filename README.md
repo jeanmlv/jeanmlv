@@ -1,7 +1,10 @@
 <h1 align="center">🧬 Jean Mendes</h1>
 
 <p align="center">
-  Clinical Trials • Biostatistics • Statistical Computing • Clinical Data Engineering •
+  <strong>Clinical Trials</strong> •
+  <strong>Biostatistics</strong> •
+  <strong>Statistical Computing</strong> •
+  <strong>Data Engineering</strong> •
   <strong>R</strong> •
   <strong>Python</strong> •
   <strong>SAS</strong> •
