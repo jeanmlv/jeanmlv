@@ -29,15 +29,7 @@ I am the founder of a GeoHealthTech venture focused on delivering **Predictive E
 
 My background combines pharmaceutical sciences with enterprise statistical programming, giving me experience across highly regulated healthcare environments before moving into spatial analytics and commercial health intelligence.
 
-Before building GeoHealthTech products, I worked extensively with:
-
-- Clinical trial data engineering
-- Statistical programming
-- CDISC SDTM & ADaM standards
-- Healthcare analytics
-- Interactive decision-support dashboards
-
-Working under strict regulatory standards taught me how to build systems that are **accurate, reproducible, auditable, and trusted**—qualities that are equally critical when delivering enterprise spatial intelligence platforms.
+Before building GeoHealthTech products, I spent several years building statistical programming and clinical data solutions for regulated healthcare environments, working with clinical trials, CDISC standards, and enterprise analytics. That experience shaped how I approach production data systems: reliable, reproducible, compliant, and designed for decision-making.
 
 Today my work focuses on designing scalable geospatial data platforms that convert complex healthcare datasets into actionable insights for business decision-makers.
 
@@ -179,11 +171,11 @@ If you're an **investor**, **technology partner**, **health insurer**, or **phar
 
 **LinkedIn**
 
-👉 https://www.linkedin.com/in/jeanmlv/
+👉 https://www.linkedin.com/in/jean-mendes-0a455680/?locale=en_US
 
 **Business Inquiries**
 
-📧 jean.mendes@outlook.com
+📧 jeanmlv.dev@gmail.com
 
 I'm always interested in discussing:
 
