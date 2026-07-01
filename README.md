@@ -1,10 +1,6 @@
 <h1 align="center">🧬 Jean Mendes</h1>
 
 <p align="center">
-  <strong>Statistical Programmer • Clinical Data Scientist • Data Engineer</strong>
-</p>
-
-<p align="center">
   Clinical Trials • Biostatistics • Statistical Computing • Clinical Data Engineering •
   <strong>R</strong> •
   <strong>Python</strong> •
