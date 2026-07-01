@@ -1,52 +1,149 @@
-<h1 align="center">🧬 Jean Mendes 💻</h1>
+# <h1 align="center">🧬 Jean Mendes</h1>
 
 <h3 align="center">
 Statistical Programmer • Clinical Data Scientist • Data Engineer
 </h3>
 
 <p align="center">
-  <code>Clinical Trials</code> •
-  <code>Biostatistics</code> •
-  <code>Data Engineering</code> •
-  <code>R</code> •
-  <code>Python</code> •
-  <code>SAS</code> •
-  <code>CDISC</code>
+
+Clinical Trials • Biostatistics • Statistical Computing • Clinical Data Engineering • R • Python • SAS • CDISC
+
 </p>
 
 ---
 
-Statistical Programmer and Clinical Data Scientist with experience at the intersection of pharmaceutical research, clinical trials, biostatistics and software engineering.
+## About Me
 
-I develop reproducible analytical pipelines, clinical data solutions and statistical applications that support decision-making across the product lifecycle — from development and clinical studies to post-market surveillance.
+I develop statistical software and reproducible data workflows for clinical research.
 
----
+My work combines statistical programming, clinical data standards, software engineering and data visualization to transform raw clinical trial data into reliable analyses, regulatory-ready datasets and decision-support tools.
 
-## Core Expertise
+My primary interests include:
 
-| Area | Focus |
-|---|---|
-| **Clinical Data Science** | Clinical trial analytics, data review, reporting and visualization |
-| **Statistical Programming** | R, Python, SAS, reproducible workflows and analytical pipelines |
-| **Clinical Standards** | CDISC SDTM, ADaM, Define-XML, metadata and data validation |
-| **Biostatistics** | Regression, hypothesis testing, survival analysis and longitudinal data |
-| **Data Engineering** | Data integration, automation and transformation |
-
----
-
-## Technical Proficiency
-
-| Category | Tools & Methods |
-|---|---|
-| **Languages** | R • Python • SAS • SQL |
-| **R Ecosystem** | tidyverse • dplyr • tidyr • ggplot2 • data.table • shiny • survival • lme4 • quarto |
-| **Python Ecosystem** | pandas • NumPy • SciPy • statsmodels • scikit-learn • polars • DuckDB • PyArrow |
-| **Clinical Standards** | CDISC SDTM • CDISC ADaM • Define-XML • MedDRA • ICH-GCP |
-| **Visualization** | ggplot2 • Plotly • Shiny • Streamlit • Matplotlib • PyGWalker |
-| **Statistics** | SPC • Capability Analysis • Regression • ANOVA • Survival Analysis • Mixed Models |
+* Clinical Trial Analytics
+* Statistical Programming
+* CDISC SDTM & ADaM
+* Clinical Data Engineering
+* Data Visualization
+* Reproducible Research
+* Machine Learning for Clinical Research
 
 ---
 
-## Professional Focus
+## Technical Skills
 
-My work combines statistical programming, clinical trial data analysis, and software development to build reliable, scalable, and reproducible data solutions that support clinical research and evidence-based decision making.
+### Languages
+
+* R
+* Python
+* SAS
+* SQL
+
+### Statistical Computing
+
+* Linear Models
+* Mixed Models
+* Survival Analysis
+* Longitudinal Data Analysis
+* Bayesian Statistics
+* Experimental Design
+* Clinical Trial Analysis
+
+### Clinical Standards
+
+* CDISC SDTM
+* CDISC ADaM
+* TLF Generation
+* Clinical Data Review
+* Data Validation
+* QC Programming
+
+### Data Engineering
+
+* DuckDB
+* Arrow
+* Parquet
+* ETL Pipelines
+* Data Quality
+* Reproducible Pipelines
+
+### Data Science
+
+* pandas
+* NumPy
+* Polars
+* scikit-learn
+* Plotly
+* Streamlit
+* PyGWalker
+
+---
+
+# Featured Projects
+
+### 📊 Clinical Trial Dashboard
+
+Interactive dashboard for exploring ADaM datasets, subject profiles, laboratory values and efficacy endpoints.
+
+**Stack**
+
+Python • Streamlit • Plotly • DuckDB
+
+---
+
+### 📈 Statistical Analysis Toolkit
+
+Collection of statistical methods frequently used in pharmaceutical development:
+
+* Capability Analysis
+* Control Charts
+* Regression Models
+* ANOVA
+* Survival Analysis
+* Bootstrap
+* Bayesian Inference
+
+---
+
+### 🧬 CDISC Toolkit
+
+Utilities for:
+
+* SDTM validation
+* ADaM dataset creation
+* Metadata extraction
+* PARAMCD dictionaries
+* QC reports
+
+---
+
+## Current Interests
+
+* Statistical Programming
+* Clinical Data Science
+* Regulatory Data Standards
+* Machine Learning for Clinical Trials
+* Clinical AI Applications
+* Data Engineering for Healthcare
+
+---
+
+## Philosophy
+
+I believe statistical programming should produce analyses that are:
+
+* Reproducible
+* Transparent
+* Validated
+* Scalable
+* Regulatory-ready
+
+---
+
+## Let's Connect
+
+* LinkedIn: https://linkedin.com/in/your-profile
+* Email: [your.email@email.com](mailto:your.email@email.com)
+
+I'm always interested in collaborating on projects involving Clinical Trials, Biostatistics, Statistical Computing and Data Engineering.
+
