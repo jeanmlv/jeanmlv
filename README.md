@@ -9,8 +9,8 @@ Founder • Spatial Data Scientist • Statistical Programmer
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jeanmlv/">LinkedIn</a> •
-<a href="mailto:jean.mendes@outlook.com">Business Contact</a>
+<a href="https://www.linkedin.com/in/jean-mendes-0a455680/?locale=en-US">LinkedIn</a> •
+<a href="mailto:jeanmlv.dev@gmail.com">Business Contact</a>
 </p>
 
 ---
