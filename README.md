@@ -10,12 +10,6 @@
 
 ---
 
-Clinical Trials • Biostatistics • Statistical Computing • Clinical Data Engineering • R • Python • SAS • CDISC
-
-</p>
-
----
-
 ## About Me
 
 I develop statistical software and reproducible data workflows for clinical research.
