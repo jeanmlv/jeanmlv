@@ -1,7 +1,7 @@
 <h1 align="center">Jean Mendes</h1>
 
 <h3 align="center">
-Founder • Spatial Data Scientist • Statistical Programmer • GeoHealthTech
+Founder • Spatial Data Scientist • Statistical Programmer
 </h3>
 
 <p align="center">
