@@ -1,149 +1,203 @@
-<h1 align="center">🧬 Jean Mendes</h1>
+<h1 align="center">Jean Mendes</h1>
+
+<h3 align="center">
+Founder • Spatial Data Scientist • Statistical Programmer • GeoHealthTech
+</h3>
 
 <p align="center">
-  <strong>Clinical Trials</strong> •
-  <strong>Biostatistics</strong> •
-  <strong>Statistical Computing</strong> •
-  <strong>Data Engineering</strong> •
-  <strong>R</strong> •
-  <strong>Python</strong> •
-  <strong>SAS</strong> •
-  <strong>CDISC</strong>
+
+Building spatial intelligence platforms that transform healthcare data into business decisions.
+
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/jeanmlv/">LinkedIn</a> •
+<a href="mailto:jean.mendes@outlook.com">Business Contact</a>
 </p>
 
 ---
 
-## About Me
+# Turning Health Data into Spatial Business Intelligence
 
-I develop statistical software and reproducible data workflows for clinical research.
+I build data products that combine **geospatial intelligence**, **statistical modeling**, and **production-grade data engineering** to help healthcare organizations make faster and better decisions.
 
-My work combines statistical programming, clinical data standards, software engineering and data visualization to transform raw clinical trial data into reliable analyses, regulatory-ready datasets and decision-support tools.
-
-My primary interests include:
-
-* Clinical Trial Analytics
-* Statistical Programming
-* CDISC SDTM & ADaM
-* Clinical Data Engineering
-* Data Visualization
-* Reproducible Research
-* Machine Learning for Clinical Research
+My focus is transforming demographic, environmental, epidemiological, and clinical data into **predictive spatial intelligence** that enables private health insurers and pharmaceutical companies to anticipate disease risk, optimize operations, and identify new business opportunities.
 
 ---
 
-## Technical Skills
+# About Me
 
-### Languages
+I am the founder of a GeoHealthTech venture focused on delivering **Predictive Epidemiology as a Service (DaaS)**.
 
-* R
-* Python
-* SAS
-* SQL
+My background combines pharmaceutical sciences with enterprise statistical programming, giving me experience across highly regulated healthcare environments before moving into spatial analytics and commercial health intelligence.
 
-### Statistical Computing
+Before building GeoHealthTech products, I worked extensively with:
 
-* Linear Models
-* Mixed Models
-* Survival Analysis
-* Longitudinal Data Analysis
-* Bayesian Statistics
-* Experimental Design
-* Clinical Trial Analysis
+- Clinical trial data engineering
+- Statistical programming
+- CDISC SDTM & ADaM standards
+- Healthcare analytics
+- Interactive decision-support dashboards
 
-### Clinical Standards
+Working under strict regulatory standards taught me how to build systems that are **accurate, reproducible, auditable, and trusted**—qualities that are equally critical when delivering enterprise spatial intelligence platforms.
 
-* CDISC SDTM
-* CDISC ADaM
-* TLF Generation
-* Clinical Data Review
-* Data Validation
-* QC Programming
-
-### Data Engineering
-
-* DuckDB
-* Arrow
-* Parquet
-* ETL Pipelines
-* Data Quality
-* Reproducible Pipelines
-
-### Data Science
-
-* pandas
-* NumPy
-* Polars
-* scikit-learn
-* Plotly
-* Streamlit
-* PyGWalker
+Today my work focuses on designing scalable geospatial data platforms that convert complex healthcare datasets into actionable insights for business decision-makers.
 
 ---
 
-# Featured Projects
+# Core Expertise & Tech Stack
 
-### 📊 Clinical Trial Dashboard
+## Spatial Databases & GIS
 
-Interactive dashboard for exploring ADaM datasets, subject profiles, laboratory values and efficacy endpoints.
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 
-**Stack**
+**Focus**
 
-Python • Streamlit • Plotly • DuckDB
-
----
-
-### 📈 Statistical Analysis Toolkit
-
-Collection of statistical methods frequently used in pharmaceutical development:
-
-* Capability Analysis
-* Control Charts
-* Regression Models
-* ANOVA
-* Survival Analysis
-* Bootstrap
-* Bayesian Inference
+- Spatial databases
+- PostGIS
+- Georeferenced healthcare datasets
+- Spatial indexing
+- Spatial SQL
+- Geospatial ETL
+- Postal-code level health intelligence
+- Production GIS pipelines
 
 ---
 
-### 🧬 CDISC Toolkit
+## Statistical Computing & Modeling
 
-Utilities for:
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-005CAA?style=for-the-badge)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge)
+![Apache Arrow](https://img.shields.io/badge/Apache%20Arrow-222222?style=for-the-badge)
 
-* SDTM validation
-* ADaM dataset creation
-* Metadata extraction
-* PARAMCD dictionaries
-* QC reports
+**Focus**
 
----
+- Spatial statistics
+- Epidemiological modeling
+- Predictive analytics
+- Disease risk estimation
+- Bayesian and regression models
+- GWR
+- Spatial autocorrelation
+- CDISC SDTM & ADaM
+- Statistical programming
 
-## Current Interests
+**R ecosystem**
 
-* Statistical Programming
-* Clinical Data Science
-* Regulatory Data Standards
-* Machine Learning for Clinical Trials
-* Clinical AI Applications
-* Data Engineering for Healthcare
-
----
-
-## Philosophy
-
-I believe statistical programming should produce analyses that are:
-
-* Reproducible
-* Transparent
-* Validated
-* Scalable
-* Regulatory-ready
+- sf
+- spatstat
+- terra
+- stars
+- tidyverse
 
 ---
 
-## Let's Connect
+## Data Engineering & Visualization
 
-* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jean-mendes-0a455680/?locale=en_US)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
 
-I'm always interested in collaborating on projects involving Clinical Trials, Biostatistics, Statistical Computing and Data Engineering.
+**Focus**
+
+- Data pipelines
+- GeoPandas
+- Polars
+- Pandas
+- DuckDB
+- Apache Arrow
+- Parquet
+- Interactive dashboards
+- Real-time analytics
+- Data architecture
+- API-ready analytical platforms
+
+---
+
+# My Venture
+
+## GeoHealthTech — Predictive Epidemiology Platform
+
+**Mission**
+
+Enable healthcare organizations to predict **where** health events will happen before they become operational problems.
+
+### Problems We Solve
+
+- Disease outbreak prediction
+- Chronic disease risk mapping
+- Healthcare demand forecasting
+- Geographic market intelligence
+- Population health segmentation
+- Spatial decision support
+
+### Target Customers
+
+- Private Health Insurers
+- Pharmaceutical Companies
+- Healthcare Networks
+- Health Analytics Companies
+- Public-Private Healthcare Partnerships
+
+### Technology
+
+- Python
+- R
+- PostgreSQL + PostGIS
+- Spatial Statistics
+- Machine Learning
+- Streamlit
+- Cloud-native Data Pipelines
+
+### Current Stage
+
+🚀 Building the MVP and validating commercial use cases for predictive epidemiology delivered as a Data-as-a-Service (DaaS) platform.
+
+---
+
+# Featured Areas
+
+Current repositories focus on topics including:
+
+- Spatial Epidemiology
+- Healthcare Geospatial Analytics
+- Predictive Risk Models
+- GeoHealth Data Pipelines
+- Statistical Programming
+- Clinical Data Engineering
+- Interactive Analytics Platforms
+
+---
+
+# Let's Connect
+
+If you're an **investor**, **technology partner**, **health insurer**, or **pharmaceutical company** exploring spatial intelligence for healthcare, I'd be glad to connect.
+
+**LinkedIn**
+
+👉 https://www.linkedin.com/in/jeanmlv/
+
+**Business Inquiries**
+
+📧 jean.mendes@outlook.com
+
+I'm always interested in discussing:
+
+- GeoHealthTech
+- Predictive Epidemiology
+- Spatial AI
+- Healthcare Data Platforms
+- Enterprise Analytics
+- Strategic Partnerships
+- B2B Product Development
+
+---
+
+> **Building the next generation of spatial intelligence for healthcare.**
 
