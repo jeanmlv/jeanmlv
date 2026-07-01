@@ -143,8 +143,7 @@ I believe statistical programming should produce analyses that are:
 
 ## Let's Connect
 
-* LinkedIn: https://linkedin.com/in/your-profile
-* Email: [your.email@email.com](mailto:your.email@email.com)
+* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jean-mendes-0a455680/?locale=en_US)
 
 I'm always interested in collaborating on projects involving Clinical Trials, Biostatistics, Statistical Computing and Data Engineering.
 
