@@ -6,7 +6,7 @@ Founder • Spatial Data Scientist • Statistical Programmer • GeoHealthTech
 
 <p align="center">
 
-Building spatial intelligence platforms that transform healthcare data into business decisions.
+  Building spatial intelligence platforms that transform healthcare data into business decisions.
 
 </p>
 
