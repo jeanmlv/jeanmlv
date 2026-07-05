@@ -76,14 +76,6 @@ Feel free to connect if you're interested in:
 
 <div align="center">
 
-### 🌐 Find me around the web
-
-<a href="https://www.linkedin.com/in/jean-mendes-0a455680/?locale=en_US">LinkedIn</a> •
-<a href="https://www.kaggle.com/jeanmlv">Kaggle</a> •
-<a href="mailto:jeanmlv.dev@gmail.com">Email</a>
-
-</div>
-
 ---
 
 <div align="center">
