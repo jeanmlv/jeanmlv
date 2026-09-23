@@ -1,6 +1,6 @@
 <div align="center">
 
-# Littlebird
+# nino
 
 ### Statistical Programmer • Data Engineer • Applied Statistician
 
